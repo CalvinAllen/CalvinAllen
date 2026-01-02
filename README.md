@@ -61,27 +61,27 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 
 ### 🧰 Developer Tools
 
-[![VSToolbox](https://img.shields.io/badge/🖥️_VSToolbox-System_tray_app_for_managing_VS_installations-5C2D91?style=for-the-badge)](https://github.com/CodingWithCalvin/VSToolbox)
-[![GitHub stars](https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&color=yellow)](https://github.com/CodingWithCalvin/VSToolbox/stargazers)
+| Project | Description | Stars |
+|---------|-------------|-------|
+| 🖥️ [VSToolbox](https://github.com/CodingWithCalvin/VSToolbox) | System tray app for managing multiple VS installations | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&logo=github) |
 
 ### 📦 SDKs & Libraries
 
-[![VsixSdk](https://img.shields.io/badge/📦_VsixSdk-Modern_MSBuild_SDK_for_VSIX-512BD4?style=for-the-badge)](https://github.com/CodingWithCalvin/VsixSdk)
-[![GitHub stars](https://img.shields.io/github/stars/CodingWithCalvin/VsixSdk?style=for-the-badge&color=yellow)](https://github.com/CodingWithCalvin/VsixSdk/stargazers)
-
-[![Otel4Vsix](https://img.shields.io/badge/📊_Otel4Vsix-OpenTelemetry_for_VS_extensions-000000?style=for-the-badge)](https://github.com/CodingWithCalvin/Otel4Vsix)
-[![GitHub stars](https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&color=yellow)](https://github.com/CodingWithCalvin/Otel4Vsix/stargazers)
+| Project | Description | Stars |
+|---------|-------------|-------|
+| 📦 [VsixSdk](https://github.com/CodingWithCalvin/VsixSdk) | Modern MSBuild SDK for VSIX development | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VsixSdk?style=for-the-badge&logo=github) |
+| 📊 [Otel4Vsix](https://github.com/CodingWithCalvin/Otel4Vsix) | OpenTelemetry support for VS extensions | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&logo=github) |
 
 ### 🔌 Visual Studio Extensions
 
-| Extension | What it does | |
-|-----------|--------------|--|
-| 🔄 [VS-ProjectRenamifier](https://github.com/CodingWithCalvin/VS-ProjectRenamifier) | Safe, comprehensive project renaming | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-ProjectRenamifier?style=flat-square&color=yellow) |
-| 🌿 [VS-GitRanger](https://github.com/CodingWithCalvin/VS-GitRanger) | Git management with theme-adaptive visuals | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-GitRanger?style=flat-square&color=yellow) |
-| 🧹 [VS-SuperClean](https://github.com/CodingWithCalvin/VS-SuperClean) | Recursively clean bin/obj folders | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-SuperClean?style=flat-square&color=yellow) |
-| 📝 [VS-OpenInNotepadPlusPlus](https://github.com/CodingWithCalvin/VS-OpenInNotepadPlusPlus) | Open files in Notepad++ from VS | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenInNotepadPlusPlus?style=flat-square&color=yellow) |
-| 🔔 [VS-BreakpointNotifier](https://github.com/CodingWithCalvin/VS-BreakpointNotifier) | Get alerted when breakpoints hit | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-BreakpointNotifier?style=flat-square&color=yellow) |
-| 📂 [VS-OpenBinFolder](https://github.com/CodingWithCalvin/VS-OpenBinFolder) | Quick access to output directory | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenBinFolder?style=flat-square&color=yellow) |
+| Extension | What it does | Stars |
+|-----------|--------------|-------|
+| 🔄 [VS-ProjectRenamifier](https://github.com/CodingWithCalvin/VS-ProjectRenamifier) | Safe, comprehensive project renaming | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-ProjectRenamifier?style=for-the-badge&logo=github) |
+| 🌿 [VS-GitRanger](https://github.com/CodingWithCalvin/VS-GitRanger) | Git management with theme-adaptive visuals | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-GitRanger?style=for-the-badge&logo=github) |
+| 🧹 [VS-SuperClean](https://github.com/CodingWithCalvin/VS-SuperClean) | Recursively clean bin/obj folders | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-SuperClean?style=for-the-badge&logo=github) |
+| 📝 [VS-OpenInNotepadPlusPlus](https://github.com/CodingWithCalvin/VS-OpenInNotepadPlusPlus) | Open files in Notepad++ from VS | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenInNotepadPlusPlus?style=for-the-badge&logo=github) |
+| 🔔 [VS-BreakpointNotifier](https://github.com/CodingWithCalvin/VS-BreakpointNotifier) | Get alerted when breakpoints hit | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-BreakpointNotifier?style=for-the-badge&logo=github) |
+| 📂 [VS-OpenBinFolder](https://github.com/CodingWithCalvin/VS-OpenBinFolder) | Quick access to output directory | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenBinFolder?style=for-the-badge&logo=github) |
 
 ---
 
