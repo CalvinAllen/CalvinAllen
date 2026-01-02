@@ -66,7 +66,7 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 <th>Stars</th>
 </tr>
 <tr>
-<td colspan="3"><h3>🧰 Developer Tools</h3></td>
+<td colspan="3"><strong>🧰 Developer Tools</strong></td>
 </tr>
 <tr>
 <td>🖥️ <a href="https://github.com/CodingWithCalvin/VSToolbox">VSToolbox</a></td>
@@ -74,7 +74,7 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 <td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&logo=github" alt="Stars"></td>
 </tr>
 <tr>
-<td colspan="3"><h3>📦 SDKs & Libraries</h3></td>
+<td colspan="3"><strong>📦 SDKs & Libraries</strong></td>
 </tr>
 <tr>
 <td>📦 <a href="https://github.com/CodingWithCalvin/VsixSdk">VsixSdk</a></td>
@@ -87,7 +87,7 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 <td><img src="https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&logo=github" alt="Stars"></td>
 </tr>
 <tr>
-<td colspan="3"><h3>🔌 Visual Studio Extensions</h3></td>
+<td colspan="3"><strong>🔌 Visual Studio Extensions</strong></td>
 </tr>
 <tr>
 <td>🔄 <a href="https://github.com/CodingWithCalvin/VS-ProjectRenamifier">VS-ProjectRenamifier</a></td>
