@@ -59,6 +59,8 @@ I'm an **Agentic Systems Designer** at [Centric Consulting](https://centricconsu
 
 All my open source work lives at [**CodingWithCalvin**](https://github.com/CodingWithCalvin) - dedicated to developer tooling and IDE extensibility.
 
+### 🧰 Developer Tools
+
 <table>
 <tr>
 <th>Project</th>
@@ -66,15 +68,19 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 <th>Stars</th>
 </tr>
 <tr>
-<td colspan="3"><h3>🧰 Developer Tools</h3></td>
-</tr>
-<tr>
 <td>🖥️ <a href="https://github.com/CodingWithCalvin/VSToolbox">VSToolbox</a></td>
 <td>System tray app for managing multiple VS installations</td>
 <td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&logo=github" alt="Stars"></td>
 </tr>
+</table>
+
+### 📦 SDKs & Libraries
+
+<table>
 <tr>
-<td colspan="3"><h3>📦 SDKs & Libraries</h3></td>
+<th>Project</th>
+<th>Description</th>
+<th>Stars</th>
 </tr>
 <tr>
 <td>📦 <a href="https://github.com/CodingWithCalvin/VsixSdk">VsixSdk</a></td>
@@ -86,8 +92,15 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 <td>OpenTelemetry support for VS extensions</td>
 <td><img src="https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&logo=github" alt="Stars"></td>
 </tr>
+</table>
+
+### 🔌 Visual Studio Extensions
+
+<table>
 <tr>
-<td colspan="3"><h3>🔌 Visual Studio Extensions</h3></td>
+<th>Project</th>
+<th>Description</th>
+<th>Stars</th>
 </tr>
 <tr>
 <td>🔄 <a href="https://github.com/CodingWithCalvin/VS-ProjectRenamifier">VS-ProjectRenamifier</a></td>
