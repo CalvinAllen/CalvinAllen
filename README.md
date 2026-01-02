@@ -59,20 +59,67 @@ I'm an **Agentic Systems Designer** at [Centric Consulting](https://centricconsu
 
 All my open source work lives at [**CodingWithCalvin**](https://github.com/CodingWithCalvin) - dedicated to developer tooling and IDE extensibility.
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| **🧰 Developer Tools** | | |
-| 🖥️ [VSToolbox](https://github.com/CodingWithCalvin/VSToolbox) | System tray app for managing multiple VS installations | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&logo=github) |
-| **📦 SDKs & Libraries** | | |
-| 📦 [VsixSdk](https://github.com/CodingWithCalvin/VsixSdk) | Modern MSBuild SDK for VSIX development | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VsixSdk?style=for-the-badge&logo=github) |
-| 📊 [Otel4Vsix](https://github.com/CodingWithCalvin/Otel4Vsix) | OpenTelemetry support for VS extensions | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&logo=github) |
-| **🔌 Visual Studio Extensions** | | |
-| 🔄 [VS-ProjectRenamifier](https://github.com/CodingWithCalvin/VS-ProjectRenamifier) | Safe, comprehensive project renaming | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-ProjectRenamifier?style=for-the-badge&logo=github) |
-| 🌿 [VS-GitRanger](https://github.com/CodingWithCalvin/VS-GitRanger) | Git management with theme-adaptive visuals | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-GitRanger?style=for-the-badge&logo=github) |
-| 🧹 [VS-SuperClean](https://github.com/CodingWithCalvin/VS-SuperClean) | Recursively clean bin/obj folders | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-SuperClean?style=for-the-badge&logo=github) |
-| 📝 [VS-OpenInNotepadPlusPlus](https://github.com/CodingWithCalvin/VS-OpenInNotepadPlusPlus) | Open files in Notepad++ from VS | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenInNotepadPlusPlus?style=for-the-badge&logo=github) |
-| 🔔 [VS-BreakpointNotifier](https://github.com/CodingWithCalvin/VS-BreakpointNotifier) | Get alerted when breakpoints hit | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-BreakpointNotifier?style=for-the-badge&logo=github) |
-| 📂 [VS-OpenBinFolder](https://github.com/CodingWithCalvin/VS-OpenBinFolder) | Quick access to output directory | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenBinFolder?style=for-the-badge&logo=github) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stars</th>
+</tr>
+<tr>
+<td colspan="3"><h3>🧰 Developer Tools</h3></td>
+</tr>
+<tr>
+<td>🖥️ <a href="https://github.com/CodingWithCalvin/VSToolbox">VSToolbox</a></td>
+<td>System tray app for managing multiple VS installations</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td colspan="3"><h3>📦 SDKs & Libraries</h3></td>
+</tr>
+<tr>
+<td>📦 <a href="https://github.com/CodingWithCalvin/VsixSdk">VsixSdk</a></td>
+<td>Modern MSBuild SDK for VSIX development</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VsixSdk?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td>📊 <a href="https://github.com/CodingWithCalvin/Otel4Vsix">Otel4Vsix</a></td>
+<td>OpenTelemetry support for VS extensions</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td colspan="3"><h3>🔌 Visual Studio Extensions</h3></td>
+</tr>
+<tr>
+<td>🔄 <a href="https://github.com/CodingWithCalvin/VS-ProjectRenamifier">VS-ProjectRenamifier</a></td>
+<td>Safe, comprehensive project renaming</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VS-ProjectRenamifier?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td>🌿 <a href="https://github.com/CodingWithCalvin/VS-GitRanger">VS-GitRanger</a></td>
+<td>Git management with theme-adaptive visuals</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VS-GitRanger?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td>🧹 <a href="https://github.com/CodingWithCalvin/VS-SuperClean">VS-SuperClean</a></td>
+<td>Recursively clean bin/obj folders</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VS-SuperClean?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td>📝 <a href="https://github.com/CodingWithCalvin/VS-OpenInNotepadPlusPlus">VS-OpenInNotepadPlusPlus</a></td>
+<td>Open files in Notepad++ from VS</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenInNotepadPlusPlus?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td>🔔 <a href="https://github.com/CodingWithCalvin/VS-BreakpointNotifier">VS-BreakpointNotifier</a></td>
+<td>Get alerted when breakpoints hit</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VS-BreakpointNotifier?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+<tr>
+<td>📂 <a href="https://github.com/CodingWithCalvin/VS-OpenBinFolder">VS-OpenBinFolder</a></td>
+<td>Quick access to output directory</td>
+<td><img src="https://img.shields.io/github/stars/CodingWithCalvin/VS-OpenBinFolder?style=for-the-badge&logo=github" alt="Stars"></td>
+</tr>
+</table>
 
 ---
 
