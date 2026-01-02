@@ -59,23 +59,14 @@ I'm an **Agentic Systems Designer** at [Centric Consulting](https://centricconsu
 
 All my open source work lives at [**CodingWithCalvin**](https://github.com/CodingWithCalvin) - dedicated to developer tooling and IDE extensibility.
 
-### 🧰 Developer Tools
-
 | Project | Description | Stars |
 |---------|-------------|-------|
+| **🧰 Developer Tools** | | |
 | 🖥️ [VSToolbox](https://github.com/CodingWithCalvin/VSToolbox) | System tray app for managing multiple VS installations | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VSToolbox?style=for-the-badge&logo=github) |
-
-### 📦 SDKs & Libraries
-
-| Project | Description | Stars |
-|---------|-------------|-------|
+| **📦 SDKs & Libraries** | | |
 | 📦 [VsixSdk](https://github.com/CodingWithCalvin/VsixSdk) | Modern MSBuild SDK for VSIX development | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VsixSdk?style=for-the-badge&logo=github) |
 | 📊 [Otel4Vsix](https://github.com/CodingWithCalvin/Otel4Vsix) | OpenTelemetry support for VS extensions | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/Otel4Vsix?style=for-the-badge&logo=github) |
-
-### 🔌 Visual Studio Extensions
-
-| Extension | What it does | Stars |
-|-----------|--------------|-------|
+| **🔌 Visual Studio Extensions** | | |
 | 🔄 [VS-ProjectRenamifier](https://github.com/CodingWithCalvin/VS-ProjectRenamifier) | Safe, comprehensive project renaming | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-ProjectRenamifier?style=for-the-badge&logo=github) |
 | 🌿 [VS-GitRanger](https://github.com/CodingWithCalvin/VS-GitRanger) | Git management with theme-adaptive visuals | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-GitRanger?style=for-the-badge&logo=github) |
 | 🧹 [VS-SuperClean](https://github.com/CodingWithCalvin/VS-SuperClean) | Recursively clean bin/obj folders | ![Stars](https://img.shields.io/github/stars/CodingWithCalvin/VS-SuperClean?style=for-the-badge&logo=github) |
