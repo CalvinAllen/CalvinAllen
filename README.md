@@ -61,7 +61,12 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 
 ### 🧰 Developer Tools
 
-<table width="100%">
+<table>
+<colgroup>
+<col width="280">
+<col width="400">
+<col width="120">
+</colgroup>
 <tr>
 <th>Project</th>
 <th>Description</th>
@@ -76,7 +81,12 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 
 ### 📦 SDKs & Libraries
 
-<table width="100%">
+<table>
+<colgroup>
+<col width="280">
+<col width="400">
+<col width="120">
+</colgroup>
 <tr>
 <th>Project</th>
 <th>Description</th>
@@ -96,7 +106,12 @@ All my open source work lives at [**CodingWithCalvin**](https://github.com/Codin
 
 ### 🔌 Visual Studio Extensions
 
-<table width="100%">
+<table>
+<colgroup>
+<col width="280">
+<col width="400">
+<col width="120">
+</colgroup>
 <tr>
 <th>Project</th>
 <th>Description</th>
