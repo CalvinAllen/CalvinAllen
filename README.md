@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Calvin+Allen+%F0%9F%91%8B;Architect+%7C+Developer+%7C+Teacher+%7C+Mentor;Building+tools+that+make+developers'+lives+easier" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Calvin+Allen+%F0%9F%91%8B;Architect+%7C+Developer+%7C+Teacher+%7C+Mentor;Building+tools+that+make+developers'+lives+easier" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Calvin+Allen+%F0%9F%91%8B;Architect+%7C+Developer+%7C+Teacher+%7C+Mentor;Building+tools+that+make+developers'+lives+easier" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Calvin+Allen+%F0%9F%91%8B;Architect+%7C+Developer+%7C+Teacher+%7C+Mentor;Building+tools+that+make+developers'+lives+easier" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Calvin+Allen+%F0%9F%91%8B;Architect+%7C+Developer+%7C+Teacher+%7C+Mentor;Building+tools+that+make+developers'+lives+easier" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Calvin+Allen+%F0%9F%91%8B;Architect+%7C+Developer+%7C+Teacher+%7C+Mentor;Building+tools+that+make+developers'+lives+easier" />
 </picture>
 
 <div align="center">
