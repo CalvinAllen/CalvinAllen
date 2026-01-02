@@ -57,47 +57,43 @@ I'm an **Agentic Systems Designer** at [Centric Consulting](https://centricconsu
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+All my open source work lives at [**CodingWithCalvin**](https://github.com/CodingWithCalvin) - dedicated to developer tooling and IDE extensibility.
 
-### 🧰 [CodingWithCalvin](https://github.com/CodingWithCalvin)
-My open source organization dedicated to developer tooling
-
-**Popular Extensions:**
-- [VS-ProjectRenamifier](https://github.com/CodingWithCalvin/VS-ProjectRenamifier) - Safe project renaming in Visual Studio
-- [VS-GitRanger](https://github.com/CodingWithCalvin/VS-GitRanger) - Git management with style
-- [Otel4Vsix](https://github.com/CodingWithCalvin/Otel4Vsix) - OpenTelemetry for VS extensions
-- [VsixSdk](https://github.com/CodingWithCalvin/VsixSdk) - Modern MSBuild SDK for VSIX
-
-</td>
-<td width="50%">
-
-### 🔧 Personal Extensions
-Quality-of-life improvements for Visual Studio
-
-- [VS-OpenInNotepadPlusPlus](https://github.com/CalvinAllen/VS-OpenInNotepadPlusPlus) ⭐11 - Open files in Notepad++
-- [VS-SuperClean](https://github.com/CalvinAllen/VS-SuperClean) - Recursively clean bin/obj folders
-- [VS-BreakpointNotifier](https://github.com/CalvinAllen/VS-BreakpointNotifier) - Get alerted when breakpoints hit
-- [VS-OpenBinFolder](https://github.com/CalvinAllen/VS-OpenBinFolder) - Quick access to output directory
-
-</td>
-</tr>
-</table>
-</div>
+| Project | Description |
+|---------|-------------|
+| [VSToolbox](https://github.com/CodingWithCalvin/VSToolbox) | System tray app for managing multiple Visual Studio installations |
+| [VsixSdk](https://github.com/CodingWithCalvin/VsixSdk) | Modern MSBuild SDK for VSIX development |
+| [Otel4Vsix](https://github.com/CodingWithCalvin/Otel4Vsix) | OpenTelemetry support for VS extensions |
+| [VS-ProjectRenamifier](https://github.com/CodingWithCalvin/VS-ProjectRenamifier) | Safe project renaming in Visual Studio |
+| [VS-GitRanger](https://github.com/CodingWithCalvin/VS-GitRanger) | Git management with theme-adaptive visuals |
+| [VS-SuperClean](https://github.com/CodingWithCalvin/VS-SuperClean) | Recursively clean bin/obj folders |
+| [VS-OpenInNotepadPlusPlus](https://github.com/CodingWithCalvin/VS-OpenInNotepadPlusPlus) | Open files in Notepad++ from VS |
+| [VS-BreakpointNotifier](https://github.com/CodingWithCalvin/VS-BreakpointNotifier) | Get alerted when breakpoints hit |
+| [VS-OpenBinFolder](https://github.com/CodingWithCalvin/VS-OpenBinFolder) | Quick access to output directory |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalvinAllen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinAllen&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CalvinAllen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CalvinAllen&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalvinAllen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinAllen&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinAllen&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinAllen&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalvinAllen&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CalvinAllen&theme=github-dark-blue&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=CalvinAllen&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=CalvinAllen&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 ---
